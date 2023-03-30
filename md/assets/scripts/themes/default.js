@@ -32,7 +32,7 @@ var defaultTheme = {
       'margin': '0 0 30px',
       'padding': '40px 15px 1px',
       'background-color': '#f8f8f8',
-      'background-image': 'url(../../assets/images/blockquote.svg)',
+      'background-image': 'url(../../md/assets/images/blockquote.svg)',
       'background-position': 'left 15px top 20px',
       'background-repeat': 'no-repeat',
       'color': 'rgba(0,0,0,.68)'
